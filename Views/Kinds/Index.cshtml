@@ -1,0 +1,47 @@
+﻿@model IEnumerable<WebsiteTuThien.Models.Kind>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.KindName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AmountOfKind)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PointOfKind)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.KindName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AmountOfKind)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PointOfKind)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.KindId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.KindId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.KindId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
