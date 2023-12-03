@@ -1,0 +1,41 @@
+﻿@using WebsiteTuThien.Utilies;
+@model WebsiteTuThien.Models.Account;
+@{
+	Layout = "";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<link rel="stylesheet" href="~/css/index.css">
+</head>
+<body>
+	<div class="container" id="container">
+		<div class="form-container sign-up-container">
+			<form asp-controller="Register" asp-action="Index" novalidate>
+				<h1>Tạo tài khoản</h1>
+				<input type="text" placeholder="Name" asp-for="AccountName"/>
+				<input type="password" placeholder="Password" asp-for="Password"/>
+				<input type="submit" placeholder="Đăng Ký" />
+			</form>
+		</div>
+		<div class="overlay-container">
+			<div class="overlay">
+				<div class="overlay-panel overlay-left">
+					<h1>Chào mừng quay trở lại!</h1>
+					<p>Để duy trì kết nối với chúng tôi vui lòng đăng nhập bằng thông tin cá nhân của bạn</p>
+					
+				</div>
+				<div class="overlay-panel overlay-right">
+					<h1>Xin chào bạn của tôi!</h1>
+					<p>Nhập thông tin cá nhân của bạn và bắt đầu giúp đỡ trẻ em thôi!</p>
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+</body>
+</html>

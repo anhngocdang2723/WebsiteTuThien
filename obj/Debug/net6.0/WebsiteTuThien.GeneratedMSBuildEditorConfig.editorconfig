@@ -9,177 +9,185 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebsiteTuThien
 build_property.RootNamespace = WebsiteTuThien
-build_property.ProjectDir = D:\Edu\3.1\ASP.Net\TH\WebsiteTuThien\WebsiteTuThien\
+build_property.ProjectDir = C:\university\web\hackathon\WebsiteTuThien\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Edu\3.1\ASP.Net\TH\WebsiteTuThien\WebsiteTuThien
+build_property.MSBuildProjectDirectory = C:\university\web\hackathon\WebsiteTuThien
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Edu/3.1/ASP.Net/TH/WebsiteTuThien/WebsiteTuThien/Views/Accounts/Create.cshtml]
+[C:/university/web/hackathon/WebsiteTuThien/Views/Accounts/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Edu/3.1/ASP.Net/TH/WebsiteTuThien/WebsiteTuThien/Views/Accounts/Delete.cshtml]
+[C:/university/web/hackathon/WebsiteTuThien/Views/Accounts/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Edu/3.1/ASP.Net/TH/WebsiteTuThien/WebsiteTuThien/Views/Accounts/Details.cshtml]
+[C:/university/web/hackathon/WebsiteTuThien/Views/Accounts/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Edu/3.1/ASP.Net/TH/WebsiteTuThien/WebsiteTuThien/Views/Accounts/Edit.cshtml]
+[C:/university/web/hackathon/WebsiteTuThien/Views/Accounts/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Edu/3.1/ASP.Net/TH/WebsiteTuThien/WebsiteTuThien/Views/Accounts/Index.cshtml]
+[C:/university/web/hackathon/WebsiteTuThien/Views/Accounts/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Edu/3.1/ASP.Net/TH/WebsiteTuThien/WebsiteTuThien/Views/Blogs/Create.cshtml]
+[C:/university/web/hackathon/WebsiteTuThien/Views/Blogs/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Edu/3.1/ASP.Net/TH/WebsiteTuThien/WebsiteTuThien/Views/Blogs/Delete.cshtml]
+[C:/university/web/hackathon/WebsiteTuThien/Views/Blogs/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Edu/3.1/ASP.Net/TH/WebsiteTuThien/WebsiteTuThien/Views/Blogs/Details.cshtml]
+[C:/university/web/hackathon/WebsiteTuThien/Views/Blogs/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Edu/3.1/ASP.Net/TH/WebsiteTuThien/WebsiteTuThien/Views/Blogs/Edit.cshtml]
+[C:/university/web/hackathon/WebsiteTuThien/Views/Blogs/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Edu/3.1/ASP.Net/TH/WebsiteTuThien/WebsiteTuThien/Views/Blogs/Index.cshtml]
+[C:/university/web/hackathon/WebsiteTuThien/Views/Blogs/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Edu/3.1/ASP.Net/TH/WebsiteTuThien/WebsiteTuThien/Views/Donations/Create.cshtml]
+[C:/university/web/hackathon/WebsiteTuThien/Views/Donations/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uYXRpb25zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Edu/3.1/ASP.Net/TH/WebsiteTuThien/WebsiteTuThien/Views/Donations/Delete.cshtml]
+[C:/university/web/hackathon/WebsiteTuThien/Views/Donations/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uYXRpb25zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Edu/3.1/ASP.Net/TH/WebsiteTuThien/WebsiteTuThien/Views/Donations/Details.cshtml]
+[C:/university/web/hackathon/WebsiteTuThien/Views/Donations/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uYXRpb25zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Edu/3.1/ASP.Net/TH/WebsiteTuThien/WebsiteTuThien/Views/Donations/Edit.cshtml]
+[C:/university/web/hackathon/WebsiteTuThien/Views/Donations/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uYXRpb25zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Edu/3.1/ASP.Net/TH/WebsiteTuThien/WebsiteTuThien/Views/Donations/Index.cshtml]
+[C:/university/web/hackathon/WebsiteTuThien/Views/Donations/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uYXRpb25zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Edu/3.1/ASP.Net/TH/WebsiteTuThien/WebsiteTuThien/Views/Home/Index.cshtml]
+[C:/university/web/hackathon/WebsiteTuThien/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Edu/3.1/ASP.Net/TH/WebsiteTuThien/WebsiteTuThien/Views/Home/Privacy.cshtml]
+[C:/university/web/hackathon/WebsiteTuThien/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Edu/3.1/ASP.Net/TH/WebsiteTuThien/WebsiteTuThien/Views/Kinds/Create.cshtml]
+[C:/university/web/hackathon/WebsiteTuThien/Views/Kinds/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2luZHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Edu/3.1/ASP.Net/TH/WebsiteTuThien/WebsiteTuThien/Views/Kinds/Delete.cshtml]
+[C:/university/web/hackathon/WebsiteTuThien/Views/Kinds/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2luZHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Edu/3.1/ASP.Net/TH/WebsiteTuThien/WebsiteTuThien/Views/Kinds/Details.cshtml]
+[C:/university/web/hackathon/WebsiteTuThien/Views/Kinds/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2luZHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Edu/3.1/ASP.Net/TH/WebsiteTuThien/WebsiteTuThien/Views/Kinds/Edit.cshtml]
+[C:/university/web/hackathon/WebsiteTuThien/Views/Kinds/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2luZHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Edu/3.1/ASP.Net/TH/WebsiteTuThien/WebsiteTuThien/Views/Kinds/Index.cshtml]
+[C:/university/web/hackathon/WebsiteTuThien/Views/Kinds/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2luZHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Edu/3.1/ASP.Net/TH/WebsiteTuThien/WebsiteTuThien/Views/Requests/Create.cshtml]
+[C:/university/web/hackathon/WebsiteTuThien/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/university/web/hackathon/WebsiteTuThien/Views/Register/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/university/web/hackathon/WebsiteTuThien/Views/Requests/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Edu/3.1/ASP.Net/TH/WebsiteTuThien/WebsiteTuThien/Views/Requests/Delete.cshtml]
+[C:/university/web/hackathon/WebsiteTuThien/Views/Requests/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Edu/3.1/ASP.Net/TH/WebsiteTuThien/WebsiteTuThien/Views/Requests/Details.cshtml]
+[C:/university/web/hackathon/WebsiteTuThien/Views/Requests/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Edu/3.1/ASP.Net/TH/WebsiteTuThien/WebsiteTuThien/Views/Requests/Edit.cshtml]
+[C:/university/web/hackathon/WebsiteTuThien/Views/Requests/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Edu/3.1/ASP.Net/TH/WebsiteTuThien/WebsiteTuThien/Views/Requests/Index.cshtml]
+[C:/university/web/hackathon/WebsiteTuThien/Views/Requests/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Edu/3.1/ASP.Net/TH/WebsiteTuThien/WebsiteTuThien/Views/Schools/Create.cshtml]
+[C:/university/web/hackathon/WebsiteTuThien/Views/Schools/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Nob29sc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Edu/3.1/ASP.Net/TH/WebsiteTuThien/WebsiteTuThien/Views/Schools/Delete.cshtml]
+[C:/university/web/hackathon/WebsiteTuThien/Views/Schools/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Nob29sc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Edu/3.1/ASP.Net/TH/WebsiteTuThien/WebsiteTuThien/Views/Schools/Details.cshtml]
+[C:/university/web/hackathon/WebsiteTuThien/Views/Schools/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Nob29sc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Edu/3.1/ASP.Net/TH/WebsiteTuThien/WebsiteTuThien/Views/Schools/Edit.cshtml]
+[C:/university/web/hackathon/WebsiteTuThien/Views/Schools/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Nob29sc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Edu/3.1/ASP.Net/TH/WebsiteTuThien/WebsiteTuThien/Views/Schools/Index.cshtml]
+[C:/university/web/hackathon/WebsiteTuThien/Views/Schools/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Nob29sc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Edu/3.1/ASP.Net/TH/WebsiteTuThien/WebsiteTuThien/Views/Shared/Error.cshtml]
+[C:/university/web/hackathon/WebsiteTuThien/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Edu/3.1/ASP.Net/TH/WebsiteTuThien/WebsiteTuThien/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/university/web/hackathon/WebsiteTuThien/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Edu/3.1/ASP.Net/TH/WebsiteTuThien/WebsiteTuThien/Views/Users/Create.cshtml]
+[C:/university/web/hackathon/WebsiteTuThien/Views/Users/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Edu/3.1/ASP.Net/TH/WebsiteTuThien/WebsiteTuThien/Views/Users/Delete.cshtml]
+[C:/university/web/hackathon/WebsiteTuThien/Views/Users/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Edu/3.1/ASP.Net/TH/WebsiteTuThien/WebsiteTuThien/Views/Users/Details.cshtml]
+[C:/university/web/hackathon/WebsiteTuThien/Views/Users/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Edu/3.1/ASP.Net/TH/WebsiteTuThien/WebsiteTuThien/Views/Users/Edit.cshtml]
+[C:/university/web/hackathon/WebsiteTuThien/Views/Users/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Edu/3.1/ASP.Net/TH/WebsiteTuThien/WebsiteTuThien/Views/Users/Index.cshtml]
+[C:/university/web/hackathon/WebsiteTuThien/Views/Users/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Edu/3.1/ASP.Net/TH/WebsiteTuThien/WebsiteTuThien/Views/_ViewImports.cshtml]
+[C:/university/web/hackathon/WebsiteTuThien/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Edu/3.1/ASP.Net/TH/WebsiteTuThien/WebsiteTuThien/Views/_ViewStart.cshtml]
+[C:/university/web/hackathon/WebsiteTuThien/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Edu/3.1/ASP.Net/TH/WebsiteTuThien/WebsiteTuThien/Views/Shared/_Layout.cshtml]
+[C:/university/web/hackathon/WebsiteTuThien/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-tv64hncn6l
