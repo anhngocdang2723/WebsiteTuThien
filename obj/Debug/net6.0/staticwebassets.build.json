@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "2B1pM26+IctAFW3eXmniBo2QwoIE5EigLAXPkXXpapE=",
+=======
+  "Hash": "9dz9b9cHAI7/ULA8xVUQe+x3f82ldPpPxzpBvLCHrso=",
+>>>>>>> 1bd493100b329d01ce02403af95ca1529b707983
   "Source": "WebsiteTuThien",
   "BasePath": "_content/WebsiteTuThien",
   "Mode": "Default",
@@ -10,17 +14,17 @@
     {
       "Name": "WebsiteTuThien\\wwwroot",
       "Source": "WebsiteTuThien",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WebsiteTuThien.styles.css",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WebsiteTuThien.styles.css",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "WebsiteTuThien.styles.css",
       "AssetKind": "All",
@@ -31,13 +35,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WebsiteTuThien.styles.css"
+      "OriginalItemSpec": "C:\\university\\web\\hackathon\\WebsiteTuThien\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WebsiteTuThien.styles.css"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebsiteTuThien.bundle.scp.css",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebsiteTuThien.bundle.scp.css",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "WebsiteTuThien.bundle.scp.css",
       "AssetKind": "All",
@@ -48,9 +52,10 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebsiteTuThien.bundle.scp.css"
+      "OriginalItemSpec": "C:\\university\\web\\hackathon\\WebsiteTuThien\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebsiteTuThien.bundle.scp.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\build\\config\\.eslintrc.json",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
@@ -1990,9 +1995,46 @@
     },
     {
       "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\css\\style.css",
+=======
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\css\\index.css",
+>>>>>>> 1bd493100b329d01ce02403af95ca1529b707983
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
+      "BasePath": "_content/WebsiteTuThien",
+      "RelativePath": "css/index.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\index.css"
+    },
+    {
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\css\\index2.css",
+      "SourceId": "WebsiteTuThien",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
+      "BasePath": "_content/WebsiteTuThien",
+      "RelativePath": "css/index2.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\index2.css"
+    },
+    {
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\css\\style.css",
+      "SourceId": "WebsiteTuThien",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -2006,6 +2048,7 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\dist\\css\\adminlte.css",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
@@ -6036,9 +6079,12 @@
     },
     {
       "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\favicon.ico",
+=======
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\favicon.ico",
+>>>>>>> 1bd493100b329d01ce02403af95ca1529b707983
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -6052,10 +6098,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\about.jpg",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\about.jpg",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "img/about.jpg",
       "AssetKind": "All",
@@ -6069,10 +6115,10 @@
       "OriginalItemSpec": "wwwroot\\img\\about.jpg"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\blog-1.jpg",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\blog-1.jpg",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "img/blog-1.jpg",
       "AssetKind": "All",
@@ -6086,10 +6132,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog-1.jpg"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\blog-2.jpg",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\blog-2.jpg",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "img/blog-2.jpg",
       "AssetKind": "All",
@@ -6103,10 +6149,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog-2.jpg"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\blog-3.jpg",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\blog-3.jpg",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "img/blog-3.jpg",
       "AssetKind": "All",
@@ -6120,10 +6166,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog-3.jpg"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\carousel-1.jpg",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\carousel-1.jpg",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "img/carousel-1.jpg",
       "AssetKind": "All",
@@ -6137,10 +6183,10 @@
       "OriginalItemSpec": "wwwroot\\img\\carousel-1.jpg"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\carousel-2.jpg",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\carousel-2.jpg",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "img/carousel-2.jpg",
       "AssetKind": "All",
@@ -6154,10 +6200,10 @@
       "OriginalItemSpec": "wwwroot\\img\\carousel-2.jpg"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\carousel-3.jpg",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\carousel-3.jpg",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "img/carousel-3.jpg",
       "AssetKind": "All",
@@ -6171,10 +6217,10 @@
       "OriginalItemSpec": "wwwroot\\img\\carousel-3.jpg"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\causes-1.jpg",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\causes-1.jpg",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "img/causes-1.jpg",
       "AssetKind": "All",
@@ -6188,10 +6234,10 @@
       "OriginalItemSpec": "wwwroot\\img\\causes-1.jpg"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\causes-2.jpg",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\causes-2.jpg",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "img/causes-2.jpg",
       "AssetKind": "All",
@@ -6205,10 +6251,10 @@
       "OriginalItemSpec": "wwwroot\\img\\causes-2.jpg"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\causes-3.jpg",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\causes-3.jpg",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "img/causes-3.jpg",
       "AssetKind": "All",
@@ -6222,10 +6268,10 @@
       "OriginalItemSpec": "wwwroot\\img\\causes-3.jpg"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\causes-4.jpg",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\causes-4.jpg",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "img/causes-4.jpg",
       "AssetKind": "All",
@@ -6239,10 +6285,10 @@
       "OriginalItemSpec": "wwwroot\\img\\causes-4.jpg"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\contact.jpg",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\contact.jpg",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "img/contact.jpg",
       "AssetKind": "All",
@@ -6256,10 +6302,10 @@
       "OriginalItemSpec": "wwwroot\\img\\contact.jpg"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\donate.jpg",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\donate.jpg",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "img/donate.jpg",
       "AssetKind": "All",
@@ -6273,10 +6319,10 @@
       "OriginalItemSpec": "wwwroot\\img\\donate.jpg"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\event-1.jpg",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\event-1.jpg",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "img/event-1.jpg",
       "AssetKind": "All",
@@ -6290,10 +6336,10 @@
       "OriginalItemSpec": "wwwroot\\img\\event-1.jpg"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\event-2.jpg",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\event-2.jpg",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "img/event-2.jpg",
       "AssetKind": "All",
@@ -6307,10 +6353,10 @@
       "OriginalItemSpec": "wwwroot\\img\\event-2.jpg"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\facts.jpg",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\facts.jpg",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "img/facts.jpg",
       "AssetKind": "All",
@@ -6324,10 +6370,10 @@
       "OriginalItemSpec": "wwwroot\\img\\facts.jpg"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\page-header.jpg",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\page-header.jpg",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "img/page-header.jpg",
       "AssetKind": "All",
@@ -6341,10 +6387,10 @@
       "OriginalItemSpec": "wwwroot\\img\\page-header.jpg"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\post-1.jpg",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\post-1.jpg",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "img/post-1.jpg",
       "AssetKind": "All",
@@ -6358,10 +6404,10 @@
       "OriginalItemSpec": "wwwroot\\img\\post-1.jpg"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\post-2.jpg",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\post-2.jpg",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "img/post-2.jpg",
       "AssetKind": "All",
@@ -6375,10 +6421,10 @@
       "OriginalItemSpec": "wwwroot\\img\\post-2.jpg"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\post-3.jpg",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\post-3.jpg",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "img/post-3.jpg",
       "AssetKind": "All",
@@ -6392,10 +6438,10 @@
       "OriginalItemSpec": "wwwroot\\img\\post-3.jpg"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\post-4.jpg",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\post-4.jpg",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "img/post-4.jpg",
       "AssetKind": "All",
@@ -6409,10 +6455,10 @@
       "OriginalItemSpec": "wwwroot\\img\\post-4.jpg"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\post-5.jpg",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\post-5.jpg",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "img/post-5.jpg",
       "AssetKind": "All",
@@ -6426,10 +6472,10 @@
       "OriginalItemSpec": "wwwroot\\img\\post-5.jpg"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\single.jpg",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\single.jpg",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "img/single.jpg",
       "AssetKind": "All",
@@ -6443,10 +6489,10 @@
       "OriginalItemSpec": "wwwroot\\img\\single.jpg"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\team-1.jpg",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\team-1.jpg",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "img/team-1.jpg",
       "AssetKind": "All",
@@ -6460,10 +6506,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team-1.jpg"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\team-2.jpg",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\team-2.jpg",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "img/team-2.jpg",
       "AssetKind": "All",
@@ -6477,10 +6523,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team-2.jpg"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\team-3.jpg",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\team-3.jpg",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "img/team-3.jpg",
       "AssetKind": "All",
@@ -6494,10 +6540,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team-3.jpg"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\team-4.jpg",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\team-4.jpg",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "img/team-4.jpg",
       "AssetKind": "All",
@@ -6511,10 +6557,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team-4.jpg"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\testimonial-1.jpg",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\testimonial-1.jpg",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "img/testimonial-1.jpg",
       "AssetKind": "All",
@@ -6528,10 +6574,10 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonial-1.jpg"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\testimonial-2.jpg",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\testimonial-2.jpg",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "img/testimonial-2.jpg",
       "AssetKind": "All",
@@ -6545,10 +6591,10 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonial-2.jpg"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\testimonial-3.jpg",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\testimonial-3.jpg",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "img/testimonial-3.jpg",
       "AssetKind": "All",
@@ -6562,10 +6608,10 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonial-3.jpg"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\testimonial-4.jpg",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\testimonial-4.jpg",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "img/testimonial-4.jpg",
       "AssetKind": "All",
@@ -6579,10 +6625,10 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonial-4.jpg"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\user.jpg",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\user.jpg",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "img/user.jpg",
       "AssetKind": "All",
@@ -6596,10 +6642,10 @@
       "OriginalItemSpec": "wwwroot\\img\\user.jpg"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\volunteer.jpg",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\volunteer.jpg",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "img/volunteer.jpg",
       "AssetKind": "All",
@@ -6613,10 +6659,10 @@
       "OriginalItemSpec": "wwwroot\\img\\volunteer.jpg"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\js\\main.js",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\js\\main.js",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "js/main.js",
       "AssetKind": "All",
@@ -6630,10 +6676,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main.js"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\animate\\animate.css",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\animate\\animate.css",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "lib/animate/animate.css",
       "AssetKind": "All",
@@ -6647,10 +6693,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\animate\\animate.css"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\animate\\animate.min.css",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\animate\\animate.min.css",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "lib/animate/animate.min.css",
       "AssetKind": "All",
@@ -6664,10 +6710,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\animate\\animate.min.css"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\counterup\\counterup.min.js",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\counterup\\counterup.min.js",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "lib/counterup/counterup.min.js",
       "AssetKind": "All",
@@ -6681,10 +6727,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\counterup\\counterup.min.js"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\easing\\easing.js",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\easing\\easing.js",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "lib/easing/easing.js",
       "AssetKind": "All",
@@ -6698,10 +6744,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\easing\\easing.js"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\easing\\easing.min.js",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\easing\\easing.min.js",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "lib/easing/easing.min.js",
       "AssetKind": "All",
@@ -6715,10 +6761,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\easing\\easing.min.js"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\flaticon\\backup.txt",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\flaticon\\backup.txt",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "lib/flaticon/backup.txt",
       "AssetKind": "All",
@@ -6732,10 +6778,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\flaticon\\backup.txt"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\flaticon\\font\\_flaticon.scss",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\flaticon\\font\\_flaticon.scss",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "lib/flaticon/font/_flaticon.scss",
       "AssetKind": "All",
@@ -6749,10 +6795,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\flaticon\\font\\_flaticon.scss"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\flaticon\\font\\flaticon.css",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\flaticon\\font\\flaticon.css",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "lib/flaticon/font/flaticon.css",
       "AssetKind": "All",
@@ -6766,10 +6812,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\flaticon\\font\\flaticon.css"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\flaticon\\font\\Flaticon.eot",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\flaticon\\font\\Flaticon.eot",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "lib/flaticon/font/Flaticon.eot",
       "AssetKind": "All",
@@ -6783,10 +6829,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\flaticon\\font\\Flaticon.eot"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\flaticon\\font\\flaticon.html",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\flaticon\\font\\flaticon.html",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "lib/flaticon/font/flaticon.html",
       "AssetKind": "All",
@@ -6800,10 +6846,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\flaticon\\font\\flaticon.html"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\flaticon\\font\\Flaticon.svg",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\flaticon\\font\\Flaticon.svg",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "lib/flaticon/font/Flaticon.svg",
       "AssetKind": "All",
@@ -6817,10 +6863,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\flaticon\\font\\Flaticon.svg"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\flaticon\\font\\Flaticon.ttf",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\flaticon\\font\\Flaticon.ttf",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "lib/flaticon/font/Flaticon.ttf",
       "AssetKind": "All",
@@ -6834,10 +6880,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\flaticon\\font\\Flaticon.ttf"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\flaticon\\font\\Flaticon.woff",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\flaticon\\font\\Flaticon.woff",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "lib/flaticon/font/Flaticon.woff",
       "AssetKind": "All",
@@ -6851,10 +6897,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\flaticon\\font\\Flaticon.woff"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\flaticon\\font\\Flaticon.woff2",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\flaticon\\font\\Flaticon.woff2",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "lib/flaticon/font/Flaticon.woff2",
       "AssetKind": "All",
@@ -6868,10 +6914,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\flaticon\\font\\Flaticon.woff2"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\flaticon\\license\\license.pdf",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\flaticon\\license\\license.pdf",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "lib/flaticon/license/license.pdf",
       "AssetKind": "All",
@@ -6885,10 +6931,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\flaticon\\license\\license.pdf"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "lib/owlcarousel/assets/ajax-loader.gif",
       "AssetKind": "All",
@@ -6902,10 +6948,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "lib/owlcarousel/assets/owl.carousel.css",
       "AssetKind": "All",
@@ -6919,10 +6965,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "lib/owlcarousel/assets/owl.carousel.min.css",
       "AssetKind": "All",
@@ -6936,10 +6982,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.default.css",
       "AssetKind": "All",
@@ -6953,10 +6999,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.default.min.css",
       "AssetKind": "All",
@@ -6970,10 +7016,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.green.css",
       "AssetKind": "All",
@@ -6987,10 +7033,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.green.min.css",
       "AssetKind": "All",
@@ -7004,10 +7050,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "lib/owlcarousel/assets/owl.video.play.png",
       "AssetKind": "All",
@@ -7021,10 +7067,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\LICENSE",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "lib/owlcarousel/LICENSE",
       "AssetKind": "All",
@@ -7038,10 +7084,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\LICENSE"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "lib/owlcarousel/owl.carousel.js",
       "AssetKind": "All",
@@ -7055,10 +7101,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\owl.carousel.js"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "lib/owlcarousel/owl.carousel.min.js",
       "AssetKind": "All",
@@ -7072,10 +7118,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\owl.carousel.min.js"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\parallax\\parallax.min.js",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\parallax\\parallax.min.js",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "lib/parallax/parallax.min.js",
       "AssetKind": "All",
@@ -7089,10 +7135,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\parallax\\parallax.min.js"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\waypoints\\links.php",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\waypoints\\links.php",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "lib/waypoints/links.php",
       "AssetKind": "All",
@@ -7106,10 +7152,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\waypoints\\links.php"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\waypoints\\waypoints.min.js",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "lib/waypoints/waypoints.min.js",
       "AssetKind": "All",
@@ -7123,10 +7169,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\waypoints\\waypoints.min.js"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\mail\\contact.js",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\mail\\contact.js",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "mail/contact.js",
       "AssetKind": "All",
@@ -7140,10 +7186,10 @@
       "OriginalItemSpec": "wwwroot\\mail\\contact.js"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\mail\\contact.php",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\mail\\contact.php",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "mail/contact.php",
       "AssetKind": "All",
@@ -7157,10 +7203,10 @@
       "OriginalItemSpec": "wwwroot\\mail\\contact.php"
     },
     {
-      "Identity": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\mail\\jqBootstrapValidation.min.js",
+      "Identity": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\mail\\jqBootstrapValidation.min.js",
       "SourceId": "WebsiteTuThien",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\",
+      "ContentRoot": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\",
       "BasePath": "_content/WebsiteTuThien",
       "RelativePath": "mail/jqBootstrapValidation.min.js",
       "AssetKind": "All",

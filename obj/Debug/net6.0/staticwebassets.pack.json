@@ -1,10 +1,11 @@
 {
   "Files": [
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebsiteTuThien.bundle.scp.css",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebsiteTuThien.bundle.scp.css",
       "PackagePath": "staticwebassets\\WebsiteTuThien.bundle.scp.css"
     },
     {
+<<<<<<< HEAD
       "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\build\\config\\.eslintrc.json",
       "PackagePath": "staticwebassets\\build\\config\\.eslintrc.json"
     },
@@ -1414,270 +1415,285 @@
     },
     {
       "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\favicon.ico",
+=======
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\css\\index2.css",
+      "PackagePath": "staticwebassets\\css\\index2.css"
+    },
+    {
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\favicon.ico",
+>>>>>>> 1bd493100b329d01ce02403af95ca1529b707983
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\about.jpg",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\about.jpg",
       "PackagePath": "staticwebassets\\img\\about.jpg"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\blog-1.jpg",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\blog-1.jpg",
       "PackagePath": "staticwebassets\\img\\blog-1.jpg"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\blog-2.jpg",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\blog-2.jpg",
       "PackagePath": "staticwebassets\\img\\blog-2.jpg"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\blog-3.jpg",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\blog-3.jpg",
       "PackagePath": "staticwebassets\\img\\blog-3.jpg"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\carousel-1.jpg",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\carousel-1.jpg",
       "PackagePath": "staticwebassets\\img\\carousel-1.jpg"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\carousel-2.jpg",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\carousel-2.jpg",
       "PackagePath": "staticwebassets\\img\\carousel-2.jpg"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\carousel-3.jpg",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\carousel-3.jpg",
       "PackagePath": "staticwebassets\\img\\carousel-3.jpg"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\causes-1.jpg",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\causes-1.jpg",
       "PackagePath": "staticwebassets\\img\\causes-1.jpg"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\causes-2.jpg",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\causes-2.jpg",
       "PackagePath": "staticwebassets\\img\\causes-2.jpg"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\causes-3.jpg",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\causes-3.jpg",
       "PackagePath": "staticwebassets\\img\\causes-3.jpg"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\causes-4.jpg",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\causes-4.jpg",
       "PackagePath": "staticwebassets\\img\\causes-4.jpg"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\contact.jpg",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\contact.jpg",
       "PackagePath": "staticwebassets\\img\\contact.jpg"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\donate.jpg",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\donate.jpg",
       "PackagePath": "staticwebassets\\img\\donate.jpg"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\event-1.jpg",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\event-1.jpg",
       "PackagePath": "staticwebassets\\img\\event-1.jpg"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\event-2.jpg",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\event-2.jpg",
       "PackagePath": "staticwebassets\\img\\event-2.jpg"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\facts.jpg",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\facts.jpg",
       "PackagePath": "staticwebassets\\img\\facts.jpg"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\page-header.jpg",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\page-header.jpg",
       "PackagePath": "staticwebassets\\img\\page-header.jpg"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\post-1.jpg",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\post-1.jpg",
       "PackagePath": "staticwebassets\\img\\post-1.jpg"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\post-2.jpg",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\post-2.jpg",
       "PackagePath": "staticwebassets\\img\\post-2.jpg"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\post-3.jpg",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\post-3.jpg",
       "PackagePath": "staticwebassets\\img\\post-3.jpg"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\post-4.jpg",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\post-4.jpg",
       "PackagePath": "staticwebassets\\img\\post-4.jpg"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\post-5.jpg",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\post-5.jpg",
       "PackagePath": "staticwebassets\\img\\post-5.jpg"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\single.jpg",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\single.jpg",
       "PackagePath": "staticwebassets\\img\\single.jpg"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\team-1.jpg",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\team-1.jpg",
       "PackagePath": "staticwebassets\\img\\team-1.jpg"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\team-2.jpg",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\team-2.jpg",
       "PackagePath": "staticwebassets\\img\\team-2.jpg"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\team-3.jpg",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\team-3.jpg",
       "PackagePath": "staticwebassets\\img\\team-3.jpg"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\team-4.jpg",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\team-4.jpg",
       "PackagePath": "staticwebassets\\img\\team-4.jpg"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\testimonial-1.jpg",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\testimonial-1.jpg",
       "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\testimonial-2.jpg",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\testimonial-2.jpg",
       "PackagePath": "staticwebassets\\img\\testimonial-2.jpg"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\testimonial-3.jpg",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\testimonial-3.jpg",
       "PackagePath": "staticwebassets\\img\\testimonial-3.jpg"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\testimonial-4.jpg",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\testimonial-4.jpg",
       "PackagePath": "staticwebassets\\img\\testimonial-4.jpg"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\user.jpg",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\user.jpg",
       "PackagePath": "staticwebassets\\img\\user.jpg"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\img\\volunteer.jpg",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\img\\volunteer.jpg",
       "PackagePath": "staticwebassets\\img\\volunteer.jpg"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\js\\main.js",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\js\\main.js",
       "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\animate\\animate.css",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\animate\\animate.css",
       "PackagePath": "staticwebassets\\lib\\animate\\animate.css"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\animate\\animate.min.css",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\animate\\animate.min.css",
       "PackagePath": "staticwebassets\\lib\\animate\\animate.min.css"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\counterup\\counterup.min.js",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\counterup\\counterup.min.js",
       "PackagePath": "staticwebassets\\lib\\counterup\\counterup.min.js"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\easing\\easing.js",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\easing\\easing.js",
       "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\easing\\easing.min.js",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\easing\\easing.min.js",
       "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\flaticon\\backup.txt",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\flaticon\\backup.txt",
       "PackagePath": "staticwebassets\\lib\\flaticon\\backup.txt"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\flaticon\\font\\Flaticon.eot",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\flaticon\\font\\Flaticon.eot",
       "PackagePath": "staticwebassets\\lib\\flaticon\\font\\Flaticon.eot"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\flaticon\\font\\Flaticon.svg",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\flaticon\\font\\Flaticon.svg",
       "PackagePath": "staticwebassets\\lib\\flaticon\\font\\Flaticon.svg"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\flaticon\\font\\Flaticon.ttf",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\flaticon\\font\\Flaticon.ttf",
       "PackagePath": "staticwebassets\\lib\\flaticon\\font\\Flaticon.ttf"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\flaticon\\font\\Flaticon.woff",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\flaticon\\font\\Flaticon.woff",
       "PackagePath": "staticwebassets\\lib\\flaticon\\font\\Flaticon.woff"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\flaticon\\font\\Flaticon.woff2",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\flaticon\\font\\Flaticon.woff2",
       "PackagePath": "staticwebassets\\lib\\flaticon\\font\\Flaticon.woff2"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\flaticon\\font\\_flaticon.scss",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\flaticon\\font\\_flaticon.scss",
       "PackagePath": "staticwebassets\\lib\\flaticon\\font\\_flaticon.scss"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\flaticon\\font\\flaticon.css",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\flaticon\\font\\flaticon.css",
       "PackagePath": "staticwebassets\\lib\\flaticon\\font\\flaticon.css"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\flaticon\\font\\flaticon.html",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\flaticon\\font\\flaticon.html",
       "PackagePath": "staticwebassets\\lib\\flaticon\\font\\flaticon.html"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\flaticon\\license\\license.pdf",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\flaticon\\license\\license.pdf",
       "PackagePath": "staticwebassets\\lib\\flaticon\\license\\license.pdf"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\owlcarousel"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\parallax\\parallax.min.js",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\parallax\\parallax.min.js",
       "PackagePath": "staticwebassets\\lib\\parallax\\parallax.min.js"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\waypoints\\links.php",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\waypoints\\links.php",
       "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\lib\\waypoints\\waypoints.min.js",
       "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\mail\\contact.js",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\mail\\contact.js",
       "PackagePath": "staticwebassets\\mail\\contact.js"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\mail\\contact.php",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\mail\\contact.php",
       "PackagePath": "staticwebassets\\mail\\contact.php"
     },
     {
-      "Id": "D:\\Edu\\3.1\\ASP.Net\\TH\\WebsiteTuThien\\WebsiteTuThien\\wwwroot\\mail\\jqBootstrapValidation.min.js",
+      "Id": "C:\\university\\web\\hackathon\\WebsiteTuThien\\wwwroot\\mail\\jqBootstrapValidation.min.js",
       "PackagePath": "staticwebassets\\mail\\jqBootstrapValidation.min.js"
     },
     {
