@@ -16,4 +16,16 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.16" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\.github\codeql\codeql-config.yml" />
+    <None Include="wwwroot\.github\CONTRIBUTING.md" />
+    <None Include="wwwroot\.github\dependabot.yml" />
+    <None Include="wwwroot\.github\ISSUE_TEMPLATE\bug-report-for-adminlte-v3.1-x.md" />
+    <None Include="wwwroot\.github\ISSUE_TEMPLATE\feature-request-for-adminlte-v4-x.md" />
+    <None Include="wwwroot\.github\workflows\ci.yml" />
+    <None Include="wwwroot\.github\workflows\codeql.yml" />
+    <None Include="wwwroot\.github\workflows\docs.yml" />
+    <None Include="wwwroot\.github\workflows\lint.yml" />
+  </ItemGroup>
+
 </Project>

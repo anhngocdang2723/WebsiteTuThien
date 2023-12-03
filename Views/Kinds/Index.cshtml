@@ -1,13 +1,12 @@
 ﻿@model IEnumerable<WebsiteTuThien.Models.Kind>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Thêm mới";
+    Layout = "/Views/Shared/_Admin.cshtml";
 }
 
-<h1>Index</h1>
-
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="Create">Thêm mới</a>
 </p>
 <table class="table">
     <thead>
@@ -37,9 +36,9 @@
                 @Html.DisplayFor(modelItem => item.PointOfKind)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.KindId">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.KindId">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.KindId">Delete</a>
+                <a asp-action="Edit" asp-route-id="@item.KindId">Sửa</a> |
+                <a asp-action="Details" asp-route-id="@item.KindId">Xem chi tiết</a> |
+                <a asp-action="Delete" asp-route-id="@item.KindId">Xoá</a>
             </td>
         </tr>
 }

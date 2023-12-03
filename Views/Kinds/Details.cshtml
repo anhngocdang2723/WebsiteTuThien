@@ -2,12 +2,15 @@
 
 @{
     ViewData["Title"] = "Details";
+    Layout = "/Views/Shared/_Admin.cshtml";
 }
 
-<h1>Details</h1>
+<h1>Xem chi tiết</h1>
 
 <div>
-    <h4>Kind</h4>
+    <h4>
+        Loại: @Html.DisplayFor(model => model.KindName)
+    </h4>
     <hr />
     <dl class="row">
         <dt class = "col-sm-2">
@@ -31,6 +34,11 @@
     </dl>
 </div>
 <div>
-    <a asp-action="Edit" asp-route-id="@Model?.KindId">Edit</a> |
-    <a asp-action="Index">Back to List</a>
+    <a asp-action="Edit" asp-route-id="@Model?.KindId">Sửa</a> |
+    <a asp-action="Index">Quay về danh sách</a>
 </div>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

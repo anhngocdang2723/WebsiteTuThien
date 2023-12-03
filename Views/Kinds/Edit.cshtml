@@ -1,12 +1,12 @@
 ﻿@model WebsiteTuThien.Models.Kind
 
 @{
-    ViewData["Title"] = "Edit";
+    ViewData["Title"] = "Sửa";
+    Layout = "/Views/Shared/_Admin.cshtml";
 }
 
-<h1>Edit</h1>
+<h1>Sửa đồ dùng</h1>
 
-<h4>Kind</h4>
 <hr />
 <div class="row">
     <div class="col-md-4">
@@ -36,7 +36,7 @@
 </div>
 
 <div>
-    <a asp-action="Index">Back to List</a>
+    <a asp-action="Index">Quay về danh sách</a>
 </div>
 
 @section Scripts {

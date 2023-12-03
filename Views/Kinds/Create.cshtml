@@ -2,6 +2,7 @@
 
 @{
     ViewData["Title"] = "Create";
+    Layout = "/Views/Shared/_Admin.cshtml";
 }
 
 <h1>Create</h1>
@@ -27,7 +28,7 @@
                 <input asp-for="PointOfKind" class="form-control" />
                 <span asp-validation-for="PointOfKind" class="text-danger"></span>
             </div>
-            <div class="form-group">
+            <div class="form-group" >
                 <input type="submit" value="Create" class="btn btn-primary" />
             </div>
         </form>
@@ -35,7 +36,7 @@
 </div>
 
 <div>
-    <a asp-action="Index">Back to List</a>
+    <a asp-action="Index">Quay về danh sách</a>
 </div>
 
 @section Scripts {

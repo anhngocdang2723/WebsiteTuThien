@@ -77,7 +77,7 @@
                             <a href="single.html" class="dropdown-item">Detail Page</a>
                             <a href="service.html" class="dropdown-item">What We Do</a>
                             <a href="team.html" class="dropdown-item">Meet The Team</a>
-                            <a href="donate.html" class="dropdown-item">Donate Now</a>
+                            <a href="/UserDonation" class="dropdown-item">Donate Now</a>
                             <a href="volunteer.html" class="dropdown-item">Become A Volunteer</a>
                         </div>
                     </div>
@@ -900,7 +900,7 @@
 
     <!-- Template Javascript -->
     <script src="~/js/main.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>
 
-@await RenderSectionAsync("Scripts", required: false)
